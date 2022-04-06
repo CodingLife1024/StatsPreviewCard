@@ -56,6 +56,7 @@ span {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: row;
 }
 
 .figs {
@@ -84,6 +85,7 @@ h4 {
         display: flex;
         justify-content: center;
         align-items: center;
+        flex-direction: column;
     }
     
     .image {
@@ -99,8 +101,8 @@ h4 {
     img {
         height: auto;
         width: 350px;
-        border-top-left-radius: 20px;
-        border-top-right-radius: 20px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
         border-bottom-left-radius: 0;
         border-bottom-right-radius: 0;
         opacity: 0.6;
@@ -112,13 +114,14 @@ h4 {
         justify-content: center;
         align-items: center;
         flex-direction: column;
-        padding: 40px;
-        height: 320px;
+        padding-left: 40px;
+        padding-right: 40px;
+        height: 600px;
         width: 270px;
         border-top-left-radius: 0;
         border-top-right-radius: 0;
-        border-bottom-left-radius: 20px;
-        border-bottom-right-radius: 20px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
     }
 
     h1 {
@@ -126,7 +129,7 @@ h4 {
         font-size: 27px;
         font-weight: 700;
         text-align: center;
-        padding-top: 40px;
+        padding-top: 30px;
     }
     
     h2 {
@@ -151,7 +154,8 @@ h4 {
     }
     
     .figs {
-        padding: 20px;
+        padding-top: 5px;
+        padding-bottom: 5px;
         display: flex;
         align-items: center;
         flex-direction: column;

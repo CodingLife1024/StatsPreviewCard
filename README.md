@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot for Desktop](https://github.com/CodingLife1024/StatsPreviewCard/blob/main/design/ScreenShot.png)
+![ScreenShot](https://user-images.githubusercontent.com/97666534/162271790-cf98b1e6-e28f-4ee6-9e3e-89623a854f17.png)
 
 ### Links
 
